@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:power_2019-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1168,4 +1169,6 @@ Wire Notes Line
 	6650 2250 6650 5900
 Wire Notes Line
 	10850 2250 10850 5900
+Text Notes 8100 850  0    50   ~ 0
+Attention: montage incorrecte, ne pas mettre les régus en parallèle\n
 $EndSCHEMATC
